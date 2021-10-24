@@ -1,0 +1,10 @@
+aippolitov
+!4NdRBsoQsE43
+=================
+https://testrail/index.php?/suites/view/78&group_by=cases:section_id&group_order=asc&display_deleted_cases=0
+login: testrail@
+pass: Qwerty12
+=================
+https://rabbitmq/#/queues
+esb-pn-1.admin (*-pn1-3)
+RabbitMQtestAdmin
